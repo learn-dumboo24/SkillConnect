@@ -2,7 +2,7 @@ import React from "react";
 
 const HeroSection = () => {
     return (
-        <section className = "relative flex flex-col items-center justify center h-screen text-center bg-[#0a0a0a] text-white px-6">
+        <section className = "relative flex flex-col items-center justify center h-screen text-center bg-gradient-to-r from-gray-900 via-black to-gray-900 text-white overflow-hidden">
             <div className = "absolute inset-0 overflow-hidden -z-10">
 
             </div>
